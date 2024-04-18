@@ -1,4 +1,3 @@
-# VectorNav-VN-100-IMU-Driver
 
 # VectorNav VN-100 IMU Driver
 
